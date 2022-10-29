@@ -1,0 +1,6 @@
+Basketball, 19.99, 10
+Tent, 34.0, 1
+Flashlight, 15.0, 2
+Tennis balls, 7.99, 5
+Fishing pole, 24.5, 12
+Lantern, 15.5, 1
